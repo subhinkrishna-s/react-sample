@@ -5,9 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>rEACT SAMPLE PRoject</code>
+          <code>Updated rEACT SAMPLE PRoject</code>
         </p>
         <a
           className="App-link"
